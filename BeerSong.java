@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Keenan McCloskey
+ * CIT 337 Assignment #2
+ * 1-30-17
  */
 package beersong;
 
