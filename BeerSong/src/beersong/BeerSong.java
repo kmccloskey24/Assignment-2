@@ -15,7 +15,15 @@ public class BeerSong {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+         int beerNum = 99;
+         String word = "bottles";
+         
+          while (beerNum > 0) {
+
+            if (beerNum == 1) {
+                word = "bottle"; // ONE bottle
+            }
     }
     
+}
 }
