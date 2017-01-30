@@ -21,7 +21,7 @@ public class BeerSong {
         while (beerNum > 0) {
 
             if (beerNum == 1) {
-                word = "bottle"; 
+                word = "bottle"; // ONE bottle
             }
 
             System.out.println(beerNum + " " + word + " of beer on the wall, " + beerNum + " " + word + " of beer");
@@ -35,6 +35,6 @@ public class BeerSong {
         if (beerNum == 0) {
             System.out.println("No more bottles of beer");
         }
+
     }
-    
-}
+    }
