@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Keenan McCloskey
+ * CIT 337 Assignment #2
+ * 1-30-17
  */
 package beersong;
 
@@ -21,7 +21,11 @@ public class BeerSong {
         while (beerNum > 0) {
 
             if (beerNum == 1) {
+<<<<<<< HEAD
                 word = "bottle"; 
+=======
+                word = "bottle"; // ONE bottle
+>>>>>>> interface
             }
 
             System.out.println(beerNum + " " + word + " of beer on the wall, " + beerNum + " " + word + " of beer");
@@ -35,6 +39,11 @@ public class BeerSong {
         if (beerNum == 0) {
             System.out.println("No more bottles of beer");
         }
+<<<<<<< HEAD
+=======
+
+    }
+>>>>>>> interface
     }
     
-}
+
