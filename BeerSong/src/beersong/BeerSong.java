@@ -23,7 +23,11 @@ public class BeerSong {
             if (beerNum == 1) {
                 word = "bottle"; // ONE bottle
             }
-    }
+            System.out.println(beerNum + " " + word + " of beer on the wall, " + beerNum + " " + word + " of beer");
+            beerNum = beerNum - 1;
+
+          }
+         
     
 }
 }
