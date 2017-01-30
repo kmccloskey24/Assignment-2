@@ -29,6 +29,11 @@ public class BeerSong {
             if (beerNum > 0) {
                 System.out.println("Take one down, pass it round " + beerNum + " " + word + " of beer");
             }
+            
+             if (beerNum == 0) {
+            System.out.println("No more bottles of beer");
+            }
+
           }
          
     
